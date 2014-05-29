@@ -1,0 +1,20 @@
+c FILE: graph_koningsberg.txt
+c
+c Created by: Andrea Cimmino Arriaga
+c
+c	Vertex A in draw is vertex 1 here.
+c	Vertex B in draw is vertex 2 here.
+c	Vertex C in draw is vertex 3 here.
+c	Vertex D in draw is vertex 4 here.
+c
+p edge 4 7
+e 1 2
+e 1 3
+e 1 4
+e 2 1
+e 2 4
+e 3 1
+e 3 4
+e 4 1
+e 4 2
+e 4 3

@@ -1,0 +1,38 @@
+c File: graph_andalucia.txt
+c
+c SOURCE: Andrea Cimmino Arriaga
+c DESCRIPTION: It's the andaluci's map translated to a graph.
+c Nodes description:
+c 			- CADIZ: 		1
+c 			- HUELVA: 		2
+c 			- SEVILLA: 		3
+c 			- CORDOBA: 		4
+c 			- MALAGA: 		5
+c 			- JAEN: 		6
+c 			- GRANADA: 		7
+c 			- ALMERIA: 		8
+p edge 8 246708
+e 1 2
+e 1 3
+e 1 5
+e 2 1
+e 2 3
+e 3 1
+e 3 2
+e 3 4
+e 3 5
+e 4 3
+e 4 5
+e 4 6
+e 4 7
+e 5 1
+e 5 3
+e 5 4
+e 5 7
+e 6 4
+e 6 7
+e 7 4
+e 7 5
+e 7 6
+e 7 8
+e 8 7
